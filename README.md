@@ -1,8 +1,8 @@
-# ariankharazmi.org
 ### Hi!👋
+# Welcome to ariankharazmi.org
 <p align="center">
 <a href="https://github.com/ariankharazmi">
-    <img src="https://homepages.uc.edu/~kharazan/webdevelopment/website/arian2017img.jpg"
+    <img src="https://avatars.githubusercontent.com/u/100003892?v=4"
     alt="arian" height="200" width="270">
 </a>
 <br/>  
