@@ -1,5 +1,4 @@
-#ariankharazmi.org
-### Hi!👋
+# ariankharazmi.org
 <p align="center">
 
 <br>
