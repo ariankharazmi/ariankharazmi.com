@@ -3,7 +3,7 @@
 <p align="center">
 
 <br>
-Loading...
+Loading content...
 </br>
 
 
