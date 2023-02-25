@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://github.com/ariankharazmi">
     <img src="https://avatars.githubusercontent.com/u/100003892?v=4"
-    alt="arian" height="200" width="270">
+    alt="arian" height="200" width="200">
 </a>
 <br/>  
  
