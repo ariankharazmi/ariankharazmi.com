@@ -2,7 +2,4 @@
 <p align="center">
 
 <br>
-Loading content...
-
-<br>
-Updating...
+Will be updated again sometime in the near future.
