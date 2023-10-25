@@ -6,6 +6,17 @@ body {
     padding: 0;
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
 header {
     display: flex;
     justify-content: space-between;
@@ -13,8 +24,57 @@ header {
     padding: 1rem 5%;
 }
 
+
+
+
+
 h1 {
     color: rgb(0, 12, 38);
+}
+
+
+
+
+.apple-nav {
+    background-color: rgb(255, 255, 255);
+    height: 44px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.apple-nav ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    gap: 0.2px;
+}
+
+.apple-nav li {
+    margin: 0 20px;
+}
+
+.apple-nav a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-size: 14px; 
+    transition: opacity 0.2s;
+}
+
+.apple-nav a:hover {
+    opacity: 0.7;
+}
+
+
+.hero {
+    background-color: #f4f4f4;
+    padding: 100px 0;
+    text-align: center;
 }
 
 .social-media {
@@ -33,6 +93,7 @@ h1 {
 }
 
 .content {
+    text-align: center;
     padding: 2rem;
 }
 
@@ -41,4 +102,16 @@ footer {
     color: white;
     text-align: center;
     padding: 1rem 0;
+}
+
+section {
+    padding: 50px 0;
+    text-align: center;
+}
+
+footer {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px 0;
 }
