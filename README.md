@@ -8,4 +8,4 @@
 
 * Will be updated periodically
 
-* * **Not Mobile-Friendly...yet!
+* * **Now Mobile Friendly!
